@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1029388147203",
+    "firebase_url": "https://maheryhchat.firebaseio.com",
+    "project_id": "maheryhchat",
+    "storage_bucket": "maheryhchat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029388147203:android:6d9a63dd573a3aca",
+        "android_client_info": {
+          "package_name": "mg.etech.mobile.maheryhchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1029388147203-e55cdseeg6ainvqv7lntql4316jmc2bt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mg.etech.mobile.maheryhchat",
+            "certificate_hash": "5d564ec3166ef0b2c36be0d27cde5773ab28d68a"
+          }
+        },
+        {
+          "client_id": "1029388147203-21j0ev81j1a30imcnhhei6jgdfm1alo1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4efp-UMSuhMOnk2flvz3Y-3ih8V89aIA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1029388147203-21j0ev81j1a30imcnhhei6jgdfm1alo1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

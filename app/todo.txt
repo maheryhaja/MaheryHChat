@@ -1,0 +1,11 @@
+1- Voir la structure des table (orientation document/ BSOn/ ...)
+2- Structurer les tables de maniere a obtenir schema plus ou moins robuste + operation de CRUD
+3- Voir les interraction utilisateur base
+4- Structurer l'application et le publier sous github
+5- Coder comme un malade
+
+
+FireBase: Base de donnees connecté qui permet la synchronisation en temps reeel
+cette base existe sous plusieurs plateform:
+Il permet entre autre de simplifier l'interaction avec les utilisateurs, les BDD
+possede un plan gratuit abordable
